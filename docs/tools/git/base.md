@@ -31,6 +31,7 @@ git commit [file1][file2] -m '提交信息'
 # 对比提交内容
 git commit -v
 
-# 使用最新的一次提交
+# 当前提交代码覆盖上一次提交信息
 git commit --amend -m '提交信息'
+
 ```
