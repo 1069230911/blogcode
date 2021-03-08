@@ -1,3 +1,3 @@
 ---
-title: GIT常用命令
+title: Git常用命令
 ---
