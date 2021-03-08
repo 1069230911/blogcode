@@ -20,12 +20,12 @@ const sidebar = {
 
     '/tools/': [
         {
-            title: 'mardown相关用法',
+            title: 'MarkDown相关用法',
             children: ['/tools/markdown/']
         },
         {
-            title: 'git相关用法',
-            children: ['/tools/git/']
+            title: 'GIT相关用法',
+            children: [ '/tools/git/base.md', '/tools/git/', '/tools/git/question.md' ]
         }
     ]
 }

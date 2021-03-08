@@ -1,7 +1,6 @@
 ---
-title: markdonw的使用
+title: MarkDown基本用法
 ---
-# markdonw的使用
 ## 快速导航
 
 [[toc]]
