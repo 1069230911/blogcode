@@ -20,11 +20,11 @@ const sidebar = {
 
     '/tools/': [
         {
-            title: 'MarkDown相关用法',
+            title: 'MarkDown',
             children: [ '/tools/markdown/' ]
         },
         {
-            title: 'Git相关用法',
+            title: 'Git',
             children: [ '/tools/git/base.md', '/tools/git/norm.md', '/tools/git/question.md' ]
         }
     ]

@@ -69,6 +69,9 @@ git push [remote][barnch]
 
 # 强行推送到远程仓库
 git push [remote] --force
+
+# 关联远程仓库
+git remote add origin [url]
 ```
 ## 撤销
 ```
