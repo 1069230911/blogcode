@@ -1,5 +1,6 @@
 const navbar =  [
     {text: '首页', link: '/'},
+
     {
         text: '前端', 
         items: [
@@ -49,6 +50,27 @@ const navbar =  [
             },
         ]
     },
+    
+    {
+        text: '后端',
+        items: [
+            {
+                text: 'NodeJs',
+                link: ''
+            },
+
+            {
+                text: '数据库',
+                items: [
+                    {
+                        text: 'MongoDB',
+                        link: ''
+                    }
+                ]
+            }
+        ]
+    },
+
     {
         text: '工具',
         link: '/tools/markdown/'

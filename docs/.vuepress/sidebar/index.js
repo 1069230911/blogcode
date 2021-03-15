@@ -20,7 +20,7 @@ const sidebar = {
 
     '/tools/': [
         {
-            title: 'MarkDown',
+            title: 'Markdown',
             children: [ '/tools/markdown/' ]
         },
         {
